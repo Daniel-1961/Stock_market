@@ -1,4 +1,5 @@
 Financial News and Stock Price Integration Analysis
+
 This repository analyzes and interprets financial news data alongside stock price data to uncover insights into market movements. The program aims to assess the impact of news sentiment on stock trends using Python and key data science libraries.
 
 DATA MEASUREMENTS USED
