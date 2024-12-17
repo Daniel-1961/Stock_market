@@ -155,7 +155,7 @@ def domain_Name():
     print("Top Domains Contributing to the News Feed:")
     print(domain_counts.head(10))
 
-    # Plot the of top domain
+    # Plot the top domains
     plt.figure(figsize=(12, 10))
     domain_counts.head(10).plot(kind='bar', color='orange')
     plt.title('Top Domains by Number of Articles')
