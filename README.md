@@ -4,8 +4,8 @@ This repository analyzes and interprets financial news data alongside stock pric
 
 # DATA MEASUREMENTS USED
 
-News Sentiment: Positive, Negative, Neutral sentiment classification from news headlines.
-Stock Metrics: Open, High, Low, Close prices, and Volume.
+News Sentiment: Positive, Negative, Neutral sentiment classification from news headlines.<br>
+Stock Metrics: Open, High, Low, Close prices, and Volume.<br>
 Technical Indicators:
 SMA: Simple Moving Average
 EMA: Exponential Moving Average
