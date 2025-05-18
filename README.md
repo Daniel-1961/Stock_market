@@ -4,10 +4,10 @@ This repository analyzes and interprets financial news data alongside stock pric
 
 # DATA MEASUREMENTS USED
 
-**News Sentiment*: Positive, Negative, Neutral sentiment classification from news headlines.<br>
+*News Sentiment*: Positive, Negative, Neutral sentiment classification from news headlines.<br>
 *Stock Metrics*: Open, High, Low, Close prices, and Volume.<br>
 Technical Indicators:<br>
-**SMA*: Simple Moving Average <br>
+*SMA*: Simple Moving Average <br>
 *EMA*: Exponential Moving Average <br>
 *RSI*: Relative Strength Index <br>
 *MACD*: Moving Average Convergence Divergence <br>
